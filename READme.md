@@ -1,4 +1,4 @@
-Random Word Appender
+Random Word Appender                                                                                                                                                                                                                                                                                                                                                                                   
 The Random Word Appender is a Python script designed to help users manage text files by appending manually entered words or randomly generated words. It provides a simple command-line interface for performing various file operations, including creating new files, appending to existing files, and changing directories.
 
 Features:
@@ -17,10 +17,6 @@ Append manually entered words to an existing file.
 Generate random words and append them to an existing file.
 Create a new file and manually enter words to append to it.
 Requirements:
-Python 3.x
+Python 3. x
 Standard Python libraries: os, random
-Contributions:
-Contributions to the Random Word Appender project are welcome! If you encounter any issues, have ideas for improvements, or want to contribute new features, feel free to submit a pull request or open an issue on GitHub.
 
-License:
-This project is licensed under the MIT License. See the LICENSE file for details.
